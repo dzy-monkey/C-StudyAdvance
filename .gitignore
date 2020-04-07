@@ -1,0 +1,37 @@
+# Prerequisites
+*.d
+# 忽略任何目录下名为 Debug/的文件夹
+Debug/
+#忽略.vs文件
+.vs/
+#忽略x64文件
+x64/
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
