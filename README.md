@@ -74,3 +74,36 @@
 
 ## 21-OperatorOverloading
 - 运算符重载
+
+## 22-Inherit
+- 继承
+
+## 23-InheritAuthority
+- 继承访问权限
+
+## 24-DerivedClassConstructor
+- 派生类的构造函数和析构函数
+
+## 25-DerivedClassStatic
+- 派生类的static关键字
+
+## 26-MultipleInheritance
+- 多重继承
+
+## 27-Virtual
+- 虚继承
+
+## 28-ExercisesFive
+- 习题5
+
+## 29-Polymorphic
+- 多态的概念
+
+## 30-ExercisesSix
+- 习题6
+
+## 31-Genericity
+- 函数模板（泛型函数)
+
+## 32-GenericityClass
+- 模板类（泛型类）
